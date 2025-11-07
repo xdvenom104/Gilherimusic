@@ -24,7 +24,7 @@ from pyrogram import filters
 load_dotenv()
 
 from ROCKYMUSIC import app
-from ROCKYMUSIC.core.call import PURVI
+from ROCKYMUSIC.core.call import ROCKY
 from ROCKYMUSIC.misc import db
 from ROCKYMUSIC.utils.database import get_assistant, get_authuser_names, get_cmode
 from ROCKYMUSIC.utils.decorators import ActualAdminCB, AdminActual, language
