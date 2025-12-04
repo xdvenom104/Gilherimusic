@@ -9,9 +9,8 @@
 # ===========================================================
 
 import asyncio
-from telegram import CallbackQuery
 from pyrogram import filters
-from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
+from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 
 from ROCKYMUSIC import YouTube, app
 from ROCKYMUSIC.core.call import ROCKY
