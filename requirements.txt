@@ -21,6 +21,7 @@ tgcrypto
 unidecode
 yt-dlp
 youtube-search
+py_yt_search
 youtube-search-python
 httpx==0.25.2
 python-telegram-bot==20.7
