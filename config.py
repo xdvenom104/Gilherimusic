@@ -34,7 +34,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1002141133985))
 
 API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("NxGBNexGenBotsbb404a", None) # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
+API_KEY = getenv("30DxNexGenBots25e6d9", None) # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
 
 # ======================================================
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
