@@ -20,7 +20,7 @@ from ROCKYMUSIC.utils.database import is_on_off
 from ROCKYMUSIC.utils.formatters import time_to_seconds
 
 YTPROXY = "https://tgapi.xbitcode.com"
-YT_API_KEY = "xbit_O1PlbyuGjX0_UQ8FtUlTKETw9HLkQVuN"
+YT_API_KEY = "xbit_Cen-wiRI8Zp7UIkcfFyELUNlVBN38-Zp"
 
 logger = LOGGER(__name__)
 
