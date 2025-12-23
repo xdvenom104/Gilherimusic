@@ -30,7 +30,11 @@ ASSUSERNAME = getenv("ASSUSERNAME")
 
 # ======================================================
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID",-1002136457746))
+LOGGER_ID = getenv("LOGGER_ID")
+if not LOGGER_ID or LOGGER_ID.strip() == "":
+    LOGGER_ID = -1002136457746
+else:
+    LOGGER_ID = int(LOGGER_ID)
 
 API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
