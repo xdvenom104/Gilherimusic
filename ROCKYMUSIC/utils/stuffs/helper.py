@@ -25,8 +25,8 @@ class Helper(object):
 » ᴘʀɪᴠᴧᴛє & sєᴄυʀє sσᴜʀᴄє | ηᴏ ᴅᴧᴛᴧ sʜᴧʀᴇ
 » ʟɪᴄєηᴄєᴅ ᴜsє | ʏσυтυʙє ᴀᴘɪ sυᴘᴘσʀтєᴅ 
 ──────────────────────
-➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/IamIstkhar)
-➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/Itzz_Istkhar)
+➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/llVAMPIRE_KINGll)
+➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/llVAMPIRE_KINGll)
 ─────────────────────────**
 '''
     
@@ -37,9 +37,9 @@ class Helper(object):
 ● ᴋᴇᴇᴘ ᴄʜᴧᴛ ᴄʟєᴧη ᴧηᴅ ʙᴜɢ-ғʀєє.
 ● ᴧηʏ ᴘʀσʙʟєϻ ? ᴊᴜsᴛ ᴄσηᴛᴧᴄᴛ ᴜs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴠɪʙᴇ-ʙσᴛs](https://t.me/Vibe_Bots)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴜᴘᴅᴧᴛєs](https://t.me/IamIstkhar)
-❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-ɪsᴛᴋʜᴀʀ](https://github.com/TEAM-ISTKHAR)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴠᴀᴍᴘɪʀᴇ-ʙσᴛs](https://t.me/TUNE_NETWORK)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴜᴘᴅᴧᴛєs](https://t.me/INDIANFRIENDSCHATS)
+❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-ᴠᴀᴍᴘɪʀᴇ](https://github.com/Badnam019)
 ─────────────────────────**
 '''
 
@@ -68,7 +68,7 @@ class Helper(object):
 • ᴧᴅϻɪηs ᴄσηᴛʀσʟ єηᴅ ᴄσϻϻᴧηᴅs 
 • σηʟʏ 1 ʀᴛϻᴘ ʟɪηᴋ ᴘєʀ ɢʀσᴜᴘ
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [DEV](t.me/IamIstkhar)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [ᴠᴀᴍᴘɪʀᴇ](https://t.me/TUNE_NETWORK)**
 '''
 
 
