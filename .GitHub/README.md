@@ -55,7 +55,7 @@
    ```
  6. **📥 ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ**
    ```bash
-   git clone https://github.com/Im-Notcoder/Purvi-V2 && cd Purvi-V2
+   git clone https://github.com/xdvenom104/Gilherimusic && cd Gilherimusic
    ```
  7. **📂 ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs**
    ```bash
